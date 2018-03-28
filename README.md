@@ -6,5 +6,5 @@ deep neural network is gone thourgh step-by-step in Python:
   * Activation (sigmoid, ReLU, tanh)
   * Backward propagation (dZ = dA*g'(Z))
   * Cost for logistic (and other) classification  
-  * Parameter update with gradient and learning rate 
+  * Parameter update with gradient and learning rate 
 
