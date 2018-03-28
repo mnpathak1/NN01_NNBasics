@@ -1,6 +1,6 @@
 # NN01_NNBasics
 In this course by Prof Ng, basic structure and algorithm of neural network are covered. 
-First, some Numpy Python basics for neural network were covered. After that, a 2-layer and 'L' layer
+First, some Numpy Python basics for neural network are revised. After that, a 2-layer and 'L' layer
 deep neural network is gone thourgh step-by-step in Python:
   * Forward propagation with weights, bias and initialization (Z=WA+b, A=g(Z))
   * Activation (sigmoid, ReLU, tanh
